@@ -1,0 +1,1 @@
+Just a simple clone of Google.com made for the Odin Project.
